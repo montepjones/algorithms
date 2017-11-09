@@ -14,6 +14,6 @@ function isPalindrome(str) {
         return false;
     }
 }
-console.log(isPalindrome("racecar"));
+console.log(isPalindrome("Madam, I'm Adam"));
  
 
